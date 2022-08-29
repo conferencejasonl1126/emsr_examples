@@ -6,7 +6,7 @@
 
 ## Quickstart
 
-To run this example, you need to connect magics VPN and obtain code-server access from administrator. 
+# To run this example, you need to connect magics VPN and obtain code-server access from administrator. 
 
 In this quick-start example you minimize a simple function of the form f(x) = a**2 + b, our objective. The closer a is to zero and the smaller b is, the smaller the total value of f(x). We will define a so-called search space for a and b and let EMS explore the space for good values.
 
