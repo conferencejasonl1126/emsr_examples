@@ -1,5 +1,3 @@
-# This contains user examples of ems client.
-
 # EMS Client Documentation
 ![](quickstart/docs/overview-16.png)
 
